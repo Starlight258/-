@@ -1,7 +1,7 @@
-# asaKimchi (김치 판매 쇼핑몰) 😋
+# asaKimchi (김치 판매 쇼핑몰 소개 사이트) 😋
 Using Django, Bootstrap
 
-김치를 판매하는 쇼핑몰입니다.
+김치를 판매하는 쇼핑몰을 소개하는 사이트입니다.
 
 <h2> Preview </h2>
 메인 화면
